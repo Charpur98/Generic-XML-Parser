@@ -1,0 +1,15 @@
+/Users/cathairharpur/Projects/xmlParser/bin/Debug/net7.0/xmlParser
+/Users/cathairharpur/Projects/xmlParser/bin/Debug/net7.0/xmlParser.deps.json
+/Users/cathairharpur/Projects/xmlParser/bin/Debug/net7.0/xmlParser.runtimeconfig.json
+/Users/cathairharpur/Projects/xmlParser/bin/Debug/net7.0/xmlParser.dll
+/Users/cathairharpur/Projects/xmlParser/bin/Debug/net7.0/xmlParser.pdb
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.csproj.AssemblyReference.cache
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.AssemblyInfoInputs.cache
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.AssemblyInfo.cs
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.csproj.CoreCompileInputs.cache
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.dll
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/refint/xmlParser.dll
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.pdb
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/xmlParser.genruntimeconfig.cache
+/Users/cathairharpur/Projects/xmlParser/obj/Debug/net7.0/ref/xmlParser.dll
